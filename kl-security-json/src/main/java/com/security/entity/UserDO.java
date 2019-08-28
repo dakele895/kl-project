@@ -28,4 +28,8 @@ public class UserDO {
      */
     private String nickname;
 
+    /**
+     * 验证码
+     */
+    private String imageCode;
 }
